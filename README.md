@@ -255,6 +255,7 @@ Check these before writing a crawler — the data may already exist, licensed an
 free.
 
 - [Common Crawl](https://commoncrawl.org) — petabytes of monthly web crawl data, free on S3.
+- [Public Records open data](https://huggingface.co/collections/Publicrecords/public-records-open-data-and-actors-6b05ff509ac4723032284a4e) — browsable tables of US federal grants and awards, EU and UK tenders, city council meetings, ATS job postings and IMF forecast track records, with matching Apify Actors for fresh pulls
 - [Wikipedia and Wikidata dumps](https://dumps.wikimedia.org) — the full corpus, no scraping needed.
 - [OpenStreetMap](https://planet.openstreetmap.org) — planet-scale geodata; [Overpass API](https://overpass-turbo.eu) for querying it live.
 - [Hugging Face Datasets](https://huggingface.co/datasets) — including [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb), Common Crawl already cleaned.
